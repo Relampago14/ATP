@@ -1,0 +1,15 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\Lista01_arranjo_ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\Lista01_arranjo_ATP.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\Lista01_arranjo_ATP.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\Lista01_arranjo_ATP.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\Lista01_arranjo_ATP.sourcelink.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\bin\Debug\net8.0\Lista01_arranjo_ATP.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\bin\Debug\net8.0\Lista01_arranjo_ATP.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\bin\Debug\net8.0\Lista01_arranjo_ATP.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\bin\Debug\net8.0\Lista01_arranjo_ATP.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\bin\Debug\net8.0\Lista01_arranjo_ATP.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\Lista01_arranjo_ATP.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\refint\Lista01_arranjo_ATP.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\Lista01_arranjo_ATP.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\Lista01_arranjo_ATP.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Lista01_arranjo_ATP\obj\Debug\net8.0\ref\Lista01_arranjo_ATP.dll
