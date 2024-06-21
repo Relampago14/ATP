@@ -37,15 +37,14 @@ class Program{
 
             Console.WriteLine("Por fim, digite as cilindradas da moto: ");
             cc[i] = Funcs.verifCc(Console.ReadLine());
-
-            // Pergunta se o usuário deseja continuar
-            Console.WriteLine("Deseja continuar com o cadastro? 'S'-sim Qualquer outro-não");
-            string resposta = Console.ReadLine();
-
-            if (resposta != "S"){
-              break;
-            }
           }
+
+          if (n_cadastros != 1){
+            break;
+          }
+          // Pergunta se o usuário deseja continuar
+          // Console.WriteLine("Deseja continuar com o cadastro? 'S'-sim Qualquer outro-não");
+          // string resposta = Console.ReadLine();
         }
 
     }

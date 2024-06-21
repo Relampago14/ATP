@@ -89,7 +89,7 @@ class Funcs{
         ano = verifNum(str_ano);
 
         while (true){
-            if (ano > 1950 && ano <= 2024){
+            if (ano > 1950 && ano <= DateTime.Now.Year){
                 break;
             }
             Console.WriteLine("Por favor, digite um ano coerente levando em conta o ano atual e "+
@@ -119,7 +119,7 @@ class Funcs{
 
     public static void motos_MaisDeDezMil(){
         // imprime motos
-        for
+        for (i)
             if (Program.preco[i]){
 
             }
