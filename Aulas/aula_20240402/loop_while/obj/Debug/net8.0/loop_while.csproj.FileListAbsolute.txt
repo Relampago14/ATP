@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\loop_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\loop_while.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\loop_while.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\loop_while.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\bin\Debug\net8.0\loop_while.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\bin\Debug\net8.0\loop_while.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\bin\Debug\net8.0\loop_while.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\bin\Debug\net8.0\loop_while.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\bin\Debug\net8.0\loop_while.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\loop_while.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\refint\loop_while.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\loop_while.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\loop_while.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_while\obj\Debug\net8.0\ref\loop_while.dll

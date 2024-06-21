@@ -1,0 +1,14 @@
+C:\PUC\ATP\Reposição\bin\Debug\net8.0\Reposição.exe
+C:\PUC\ATP\Reposição\bin\Debug\net8.0\Reposição.deps.json
+C:\PUC\ATP\Reposição\bin\Debug\net8.0\Reposição.runtimeconfig.json
+C:\PUC\ATP\Reposição\bin\Debug\net8.0\Reposição.dll
+C:\PUC\ATP\Reposição\bin\Debug\net8.0\Reposição.pdb
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\Reposição.GeneratedMSBuildEditorConfig.editorconfig
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\Reposição.AssemblyInfoInputs.cache
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\Reposição.AssemblyInfo.cs
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\Reposição.csproj.CoreCompileInputs.cache
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\Reposição.dll
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\refint\Reposição.dll
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\Reposição.pdb
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\Reposição.genruntimeconfig.cache
+C:\PUC\ATP\Reposição\obj\Debug\net8.0\ref\Reposição.dll

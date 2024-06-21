@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\n_primos_1a20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\n_primos_1a20.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\n_primos_1a20.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\n_primos_1a20.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\bin\Debug\net8.0\n_primos_1a20.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\bin\Debug\net8.0\n_primos_1a20.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\bin\Debug\net8.0\n_primos_1a20.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\bin\Debug\net8.0\n_primos_1a20.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\bin\Debug\net8.0\n_primos_1a20.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\n_primos_1a20.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\refint\n_primos_1a20.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\n_primos_1a20.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\n_primos_1a20.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\n_primos_1a20\obj\Debug\net8.0\ref\n_primos_1a20.dll

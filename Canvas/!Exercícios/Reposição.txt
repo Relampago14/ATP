@@ -1,0 +1,121 @@
+Questão 1
+
+	using System;
+	using System.Diagnostics;
+
+	public class Program
+	{
+
+		public static void Main()
+		{
+			Double b, h;
+
+			Console.Write("Infome o valor da base do retângulo: ");
+			b = Convert.ToDouble(Console.ReadLine());
+
+			Console.Write("Informe o valor da altura do retângulo: ");
+			h = Convert.ToDouble(Console.ReadLine());
+
+			Console.WriteLine($"O valor do perímetro desse retângulo é {2*(b+h)}");
+			Console.WriteLine($"O valor da área desse retângulo é {b*h}");
+			Console.WriteLine($"O valor da diagonal desse retângulo é {Math.Sqrt(Math.Pow(b, 2)+Math.Pow(h, 2))}");
+		}
+
+	}
+
+Questão 2
+
+	using System;
+
+	public class Program{
+		public static void Main(){
+
+			Double c1, c2;
+
+			Console.Write("Escreva o valor de um cateto do triângulo retângulo: ");
+			c1 = Convert.ToDouble(Console.ReadLine());
+
+			Console.Write("Escreva o valor do outro cateto do triângulo retângulo: ");
+			c2 = Convert.ToDouble(Console.ReadLine());
+
+			Console.Write($"A hipotenusa desse triângulo retângulo vale {Math.Sqrt(Math.Pow(c1, 2) + Math.Pow(c2, 2))}");
+
+		}
+	}
+
+Questão 3 
+
+	using System;
+
+	public class Program{
+		public static void Main(){
+
+			Double sm, kW, p_kW;
+
+			Console.Write("Insira o valor do salário-mínimo: ");
+			sm = Convert.ToDouble(Console.ReadLine());
+
+			Console.Write("Insira o valor do consumo da residência em kilowatts: ");
+			kW = Convert.ToDouble(Console.ReadLine());
+
+			p_kW = sm/7/100;
+
+			Console.Write($"O valor de cada kilowatt é R$ {p_kW:0.00}, o valor da conta a ser paga é R$ {p_kW * kW:0.00}, porém com desconto é R$ {p_kW * kW - (p_kW * kW * 0.1):0.00}");
+			
+		}
+	}
+
+Questão 4 
+
+	using System;
+
+	public class Program{
+
+		public static void Main(){
+
+			double x1, y1, x2, y2;
+
+			Console.Write("Insira a coordenada X1: ");
+			x1 = Convert.ToDouble(Console.ReadLine());
+
+			Console.Write("Insira a coordenada Y1: ");
+			y1 = Convert.ToDouble(Console.ReadLine());
+
+			Console.Write("Insira a coordenada X2: ");
+			x2 = Convert.ToDouble(Console.ReadLine());
+
+			Console.Write("Insira a coordenada Y2: ");
+			y2 = Convert.ToDouble(Console.ReadLine());
+
+			Console.Write($"A distância entre P({x1}, {y1}) e P({x2}, {y2}) é {Math.Sqrt(Math.Pow(x2-x1, 2)+Math.Pow(y2-y1, 2))}");
+
+		}
+
+	}
+
+Questão 5
+
+	using System;
+
+	public class Program{
+
+		public static void Main(){
+
+			double A, B, C;
+
+			Console.WriteLine("Insira o valor de A:");
+			A = Convert.ToDouble(Console.ReadLine());
+
+			Console.WriteLine("Insira o valor de B:");
+			B = Convert.ToDouble(Console.ReadLine());
+
+			C = A;
+			A = B;
+			B = C;
+
+			Console.WriteLine($"O valor final de A é {A}");
+			Console.WriteLine($"O valor final de B é {B}");
+
+		}
+
+	}

@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\Exercicio_While_ATP11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\Exercicio_While_ATP11.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\Exercicio_While_ATP11.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\Exercicio_While_ATP11.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\bin\Debug\net8.0\Exercicio_While_ATP11.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\bin\Debug\net8.0\Exercicio_While_ATP11.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\bin\Debug\net8.0\Exercicio_While_ATP11.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\bin\Debug\net8.0\Exercicio_While_ATP11.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\bin\Debug\net8.0\Exercicio_While_ATP11.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\Exercicio_While_ATP11.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\refint\Exercicio_While_ATP11.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\Exercicio_While_ATP11.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\Exercicio_While_ATP11.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_While_ATP11\obj\Debug\net8.0\ref\Exercicio_While_ATP11.dll

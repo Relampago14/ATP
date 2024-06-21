@@ -1,0 +1,15 @@
+C:\!ATP\formatar_tres_casas\bin\Debug\net7.0\formatar_tres_casas.exe
+C:\!ATP\formatar_tres_casas\bin\Debug\net7.0\formatar_tres_casas.deps.json
+C:\!ATP\formatar_tres_casas\bin\Debug\net7.0\formatar_tres_casas.runtimeconfig.json
+C:\!ATP\formatar_tres_casas\bin\Debug\net7.0\formatar_tres_casas.dll
+C:\!ATP\formatar_tres_casas\bin\Debug\net7.0\formatar_tres_casas.pdb
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\formatar_tres_casas.csproj.AssemblyReference.cache
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\formatar_tres_casas.GeneratedMSBuildEditorConfig.editorconfig
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\formatar_tres_casas.AssemblyInfoInputs.cache
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\formatar_tres_casas.AssemblyInfo.cs
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\formatar_tres_casas.csproj.CoreCompileInputs.cache
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\formatar_tres_casas.dll
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\refint\formatar_tres_casas.dll
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\formatar_tres_casas.pdb
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\formatar_tres_casas.genruntimeconfig.cache
+C:\!ATP\formatar_tres_casas\obj\Debug\net7.0\ref\formatar_tres_casas.dll

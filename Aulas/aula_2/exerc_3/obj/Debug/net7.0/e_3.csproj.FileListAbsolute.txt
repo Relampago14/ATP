@@ -1,0 +1,15 @@
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\bin\Debug\net7.0\e_3.exe
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\bin\Debug\net7.0\e_3.deps.json
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\bin\Debug\net7.0\e_3.runtimeconfig.json
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\bin\Debug\net7.0\e_3.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\bin\Debug\net7.0\e_3.pdb
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\e_3.csproj.AssemblyReference.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\e_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\e_3.AssemblyInfoInputs.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\e_3.AssemblyInfo.cs
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\e_3.csproj.CoreCompileInputs.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\e_3.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\refint\e_3.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\e_3.pdb
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\e_3.genruntimeconfig.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_3\e_3\obj\Debug\net7.0\ref\e_3.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "n_primos_1a20/1.0.0": {
+        "runtime": {
+          "n_primos_1a20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "n_primos_1a20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

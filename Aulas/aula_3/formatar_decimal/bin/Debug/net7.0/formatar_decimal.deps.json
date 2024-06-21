@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "formatar_decimal/1.0.0": {
+        "runtime": {
+          "formatar_decimal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "formatar_decimal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

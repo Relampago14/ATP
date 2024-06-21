@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\Exercicio_Modularizacao_ATP07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\Exercicio_Modularizacao_ATP07.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\Exercicio_Modularizacao_ATP07.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\Exercicio_Modularizacao_ATP07.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\bin\Debug\net8.0\Exercicio_Modularizacao_ATP07.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\bin\Debug\net8.0\Exercicio_Modularizacao_ATP07.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\bin\Debug\net8.0\Exercicio_Modularizacao_ATP07.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\bin\Debug\net8.0\Exercicio_Modularizacao_ATP07.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\bin\Debug\net8.0\Exercicio_Modularizacao_ATP07.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\Exercicio_Modularizacao_ATP07.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\refint\Exercicio_Modularizacao_ATP07.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\Exercicio_Modularizacao_ATP07.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\Exercicio_Modularizacao_ATP07.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_Modularizacao_ATP07\obj\Debug\net8.0\ref\Exercicio_Modularizacao_ATP07.dll

@@ -1,0 +1,668 @@
+***
+Caro Professor,
+
+	viemos relatar aqui a nossa insatisfação com os membros Breno Felipe e Eduardo. Este primeiro não realizou
+	sequer uma atividade até o presente momento, e nessa não foi diferente. Já o Eduardo não se manifestou nas
+	duas últimas também, deixando o trabalho todo para os membros Patrick Patrício e João Marcos.
+	
+	Dessa forma, não conseguimos fazer a questão 10 dessa presente atividade. Por favor, avalie conforme o senhor
+	achar necessário.
+***
+
+
+Questão 1:
+
+using System;
+
+class Program{
+
+    // Declara os pesos como variáveis globais
+    static int p1 = 5, p2 = 3, p3 = 2;
+
+    // Procedimento que recebe as três notas, a opção pelo tipo de média e que irá devolver os valores das médias
+    public static void notaAluno(int n1, int n2, int n3, char letra, out int ma, out int mp){
+
+        ma = 0;
+        mp = 0;
+
+        switch (letra)
+        {
+            case 'A':
+                ma = (n1 + n2 + n3) / 3;
+                break;
+            case 'P':
+                mp = ((n1 * p1) + (n2 * p2) + (n3 * p3)) / (p1 + p2 + p3);
+                break;
+            default:
+                while (letra != 'A' && letra != 'P'){
+                    Console.WriteLine("Por favor, digite uma opção válida: ");
+                    letra = Convert.ToChar(Console.ReadLine());
+                }
+                break;
+        }
+
+    }
+
+    public static int verifNum(string str_num){
+
+    // Pega a string recebida e somente irá liberar caso a mesma possa ser convertida para inteiro
+
+    int int_num;
+
+    while (!(int.TryParse(str_num, out int_num))){
+
+        Console.WriteLine("Por favor, digite um número: ");
+        str_num = Console.ReadLine();
+
+    }
+
+    return int_num;
+
+    }
+
+    public static void Main(){
+
+        string str_n_alunos, str_n1, str_n2, str_n3;
+        int n_alunos, n1, n2, n3, ma, mp;
+        char letra;
+
+        // Recebe a entrada e converte para número
+        Console.WriteLine("Digite o número de alunos: ");
+        str_n_alunos = Console.ReadLine();
+        n_alunos = verifNum(str_n_alunos);
+
+        // Para cada aluno, executa o bloco abaixo
+        for (int i = 0; i < n_alunos; i++){
+            // Recebe a entrada e converte para número
+            Console.WriteLine($"Digite a primeira nota do {i+1}° aluno: ");
+            str_n1 = Console.ReadLine();
+            n1 = verifNum(str_n1);
+
+            // Recebe a entrada e converte para número
+            Console.WriteLine($"Digite a segunda nota do {i+1}° aluno: ");
+            str_n2 = Console.ReadLine();
+            n2 = verifNum(str_n2);
+
+            // Recebe a entrada e converte para número
+            Console.WriteLine($"Digite a terceira nota do {i+1}° aluno: ");
+            str_n3 = Console.ReadLine();
+            n3 = verifNum(str_n3);
+
+            Console.WriteLine("Agora, digite a letra 'A' para calcular a média aritimética do aluno ou "+
+            "a letra 'P' para calcular a média ponderada: ");
+            letra = Convert.ToChar(Console.ReadLine());
+
+            notaAluno(n1, n2, n3, letra, out ma, out mp);
+
+            if (letra == 'A'){
+                Console.WriteLine($"A média aritimética do aluno é {ma}");
+            }
+
+            else{
+                Console.WriteLine($"A média ponderada do aluno é {mp}");
+            }
+
+        }
+    }
+
+}Link do Replit: https://replit.com/join/rocttpayvl-relampagouu
+
+Questão 2:
+
+using System;
+
+class Q2
+{
+    public static void mediaSalario(double totalSalario, double totalFilhos, double habitantes, out double mediaS, out double mediaF)
+    {
+        mediaS = totalSalario / habitantes;
+        mediaF = totalFilhos / habitantes;
+    }
+
+    public static void teste()
+    {
+        double salarioH, filhosH, totalSalario = 0, totalFilhos = 0, op = 1, habitantesA = 0;
+
+        Console.WriteLine("\n\nQuestão 2 - Média de salário e filhos dos habitantes\n");
+
+        do
+        {
+            Console.WriteLine("Insira o salário do habitante: ");
+            salarioH = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Insira o número de filhos do habitante: ");
+            filhosH = Convert.ToDouble(Console.ReadLine());
+            habitantesA++;
+            totalSalario += salarioH;
+            totalFilhos += filhosH;
+            Console.WriteLine("Deseja inserir mais dados antes do calcular a média? 1-Sim 2-Não");
+            op = Convert.ToInt32(Console.ReadLine());
+        } while (op == 1);
+
+        double mediaSalarioHabitantes, mediaFilhos;
+        mediaSalario(totalSalario, totalFilhos, habitantesA, out mediaSalarioHabitantes, out mediaFilhos);
+        Console.WriteLine($"A média de salário dos habitantes é de {mediaSalarioHabitantes:F2} e a média de filhos é de {mediaFilhos:F2}");
+    }
+
+}
+
+using System;
+
+class Program{
+  public static void Main(){
+    Q2.teste();
+  }
+  
+}
+
+Link do replit: https://replit.com/@patrickpcunha/ListaModularizacao02
+
+Questão 3:
+
+using System;
+
+class Q3{
+    // Procedimento para ordenar e exibir três valores inteiros em ordem crescente
+    public static void ordemCrescente(int a, int b, int c){
+        int temp;
+        // Ordenação usando método simples de comparação e troca
+        if (a > b){
+            temp = a;
+            a = b;
+            b = temp;
+        }
+        if (a > c){
+            temp = a;
+            a = c;
+            c = temp;
+        }
+        if (b > c){
+            temp = b;
+            b = c;
+            c = temp;
+        }
+
+        // Exibir os valores em ordem crescente
+        Console.WriteLine($"{a}, {b}, {c}");
+    }
+
+    public static void teste(){
+        Console.WriteLine("Quantos conjuntos de 3 valores você deseja inserir?");
+        int N = Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 0; i < N; i++){
+            Console.WriteLine($"Insira o conjunto {i + 1}:");
+
+            Console.Write("Valor 1: ");
+            int valor1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Valor 2: ");
+            int valor2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Valor 3: ");
+            int valor3 = Convert.ToInt32(Console.ReadLine());
+
+            // Chamar o procedimento para exibir os valores em ordem crescente
+            ordemCrescente(valor1, valor2, valor3);
+        }
+    }
+}
+
+using System;
+
+class Program {
+  public static void Main (){
+    Q3.teste();
+  }
+}
+
+Link do replit: https://replit.com/@patrickpcunha/ListaModularizacao03
+
+Questão 4:
+
+using System;
+
+class Program{
+
+    static int l1, l2, l3;
+
+    public static void verifTriang(int l1, int l2, int l3){
+
+        // Recebem a validação da regra da existência do triângulo
+        bool r1 = false, r2 = false, r3 = false;
+        
+        // Se os lados obedecerem as regras, rx = true
+        if (Math.Abs(l2 - l3) < l1 && l1 < (l2 + l3)){
+            r1 = true;
+        }
+
+        if (Math.Abs(l1 - l3) < l2 && l2 < (l1 + l3)){
+            r2 = true;
+        }
+
+        if (Math.Abs(l1 - l2) < l3 && l3 < (l1 + l2)){
+            r3 = true;
+        }
+
+        // Se todas as regras forem obedecidas, mostra se é um triângulo equilátero,
+        // isósceles ou escaleno
+        if (r1 && r2 && r3){
+            if (l1 == l2 && l2 == l3){
+                Console.Write("O triângulo formado é equilátero!");
+            }
+
+            else if (l1 == l2 || l2 == l3 || l1 == l3){
+                Console.Write("O triângulo formado é isósceles!");
+            }
+            else{
+                Console.Write("O triângulo é escaleno!");
+            }
+        }
+
+        // Se nem todas as regras forem obedecidas, imprime que não é um triângulo
+        else{
+            Console.Write("Os lados fornecidos não formam um triângulo.");
+        }
+
+    }
+
+    public static int verifNum(string str_l){
+
+        int l;
+
+        // Enquanto não for possível converter a string recebida em número, pede outra string
+        while (!(int.TryParse(str_l, out l))){
+            Console.WriteLine("Por favor, digite um número: ");
+            str_l = Console.ReadLine();
+        }
+
+        return l;
+
+    }
+
+    public static void Main(){
+
+        char res = ' ';
+        string str_l1, str_l2, str_l3;
+
+        // Loop que recebe x lados de x triângulos e somente se encerra se o usuário pressionar a tecla 'n'
+        while (true){
+            
+            // Se for a primeira vez que é executado, deseja boas vindas
+            if (res == ' '){
+                Console.WriteLine("Bem vindo! Deseja verificar os três lados que você fornecer formam um triângulo? (s - sim; n - não)");
+                res = Console.ReadKey().KeyChar;
+            }
+
+            // Valida as opções digitadas
+            switch (res)
+            {
+                case 's':
+                    break;
+                case 'n':
+                    break;
+                default:
+                    while (res != 's' && res != 'n'){
+                        Console.WriteLine("\nPor favor, digite uma opção válida: ");
+                        res = Console.ReadKey().KeyChar;
+                    }
+                    break;
+            }
+
+            // Se res for = 'n', encerra o loop
+            if (res == 'n'){
+                break;
+            }
+            
+            // Pede o primeiro lado e verifica se o valor fornecido é um número
+            Console.WriteLine("\nDigite o primeiro lado: ");
+            str_l1 = Console.ReadLine();
+            l1 = verifNum(str_l1);
+
+            // Pede o segundo lado e verifica se o valor fornecido é um número
+            Console.WriteLine("Digite o segundo lado: ");
+            str_l2 = Console.ReadLine();
+            l2 = verifNum(str_l2);
+
+            // Pede o terceiro lado e verifica se o valor fornecido é um número
+            Console.WriteLine("Digite o terceiro lado: ");
+            str_l3 = Console.ReadLine();
+            l3 = verifNum(str_l3);
+
+            // Chama o procedimento e envia os três parâmetros
+            verifTriang(l1, l2, l3);
+
+            // Pergunta se o usuário quer fazer novamente
+            Console.WriteLine(" Deseja fazer para outro triângulo? (s - sim; n - não)");
+            res = Console.ReadKey().KeyChar;
+
+        }
+
+    }
+
+}
+
+Link do replit: https://replit.com/join/ojqxdmatpp-relampagouu
+
+Questão 5:
+
+using System;
+
+class Q5{
+    // Função para calcular o Máximo Divisor Comum (MDC) usando o algoritmo de Euclides
+    public static int CalcularMDC(int a, int b){
+        while (b != 0){
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+
+    // Função principal para testar o algoritmo de Euclides
+    public static void teste(){
+        Console.WriteLine("\n\nQuatão 5 - Crie uma função que receba dois números e calcule o MDC\n");
+      
+        Console.WriteLine("Insira o primeiro número: ");
+        int num1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Insira o segundo número: ");
+        int num2 = Convert.ToInt32(Console.ReadLine());
+
+        int mdc = CalcularMDC(num1, num2);
+
+        Console.WriteLine($"O Máximo Divisor Comum (MDC) de {num1} e {num2} é: {mdc}");
+    }
+}
+
+using System;
+
+class Program{
+  public static void Main(){
+    Q5.teste();
+  }
+  
+}
+
+Link do replit: https://replit.com/@patrickpcunha/ListaModularizacao05
+
+Questão 6:
+
+using System;
+
+class Q6{
+    // Função para verificar se um número é positivo
+    public static bool EhPositivo(int numero){
+        return numero > 0;
+    }
+
+    // Função principal para ler N números e verificar se são positivos
+    public static void teste(){
+        Console.WriteLine("Quantos números você deseja verificar se são positivos ou negativos?");
+        int n = Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 0; i < n; i++){
+            Console.WriteLine($"Insira o número:");
+            int numero = Convert.ToInt32(Console.ReadLine());
+            if (EhPositivo(numero))
+                Console.WriteLine($"O número {numero} é positivo.\n");
+            else
+                Console.WriteLine($"O número {numero} não é positivo.\n");
+        }
+    }
+}
+
+using System;
+
+class Program {
+  public static void Main(){
+    Q6.teste();
+  }
+}
+
+Link do replit: https://replit.com/@patrickpcunha/ListaModularizacao06
+
+Questão 7:
+
+using System;
+
+class Program{
+
+    public static void conceitoAluno(int nota){
+
+        // Usa a média final e compara com os valores para exibir cada conceito
+
+        if (nota >= 90){
+            Console.WriteLine("O conceito desse aluno foi 'A'. Parabéns!");
+        }
+
+        else if (nota >= 80){
+            Console.WriteLine("O conceito desse aluno foi 'B'. Parabéns!");
+        }
+
+        else if (nota >= 70){
+            Console.WriteLine("O conceito desse aluno foi 'C'.");
+        }
+
+        else if (nota >= 60){
+            Console.WriteLine("O conceito desse aluno foi 'D'.");
+        }
+
+        else if (nota >= 40){
+            Console.WriteLine("O conceito desse aluno foi 'E'.");
+        }
+
+        else{
+             Console.WriteLine("O conceito desse aluno foi 'F' :(");
+        }
+
+    }
+
+    public static int verifNum(string str_num){
+
+        // Pega a string recebida e somente irá liberar caso a mesma possa ser convertida para inteiro
+
+        int int_num;
+
+        while (!(int.TryParse(str_num, out int_num))){
+
+            Console.WriteLine("Por favor, digite um número: ");
+            str_num = Console.ReadLine();
+
+        }
+
+        return int_num;
+
+    }
+
+    public static void Main(){
+
+        string str_n_alunos, str_nota_aluno;
+        int n_alunos, nota_aluno;
+
+        // Recebe a entrada do usuário e converte para int
+        Console.WriteLine("Digite a quantidade de alunos: ");
+        str_n_alunos = Console.ReadLine();
+        n_alunos = verifNum(str_n_alunos);
+
+        // Para cada aluno, chama o procedimento acima
+        for (int i = 0; i < n_alunos; i++){
+
+            Console.WriteLine($"Digite a média final do {i+1}° aluno: ");
+            str_nota_aluno = Console.ReadLine();
+            nota_aluno = verifNum(str_nota_aluno);
+
+            conceitoAluno(nota_aluno);
+
+        }
+        
+
+    }
+
+}
+
+Link do Replit: https://replit.com/join/ohlsfvdxnb-relampagouu
+
+Questão 8:
+
+using System;
+
+class Program{
+
+    // Função que recebe o número e retorna a fórmula pedida
+    public static double somaNum(double n){
+
+        return ((n * n + 1) / (n + 3));
+
+    }
+
+    public static double verifNum(string str_num){
+
+    // Pega a string recebida e somente irá liberar caso a mesma possa ser convertida para inteiro
+
+    double double_num;
+
+    while (!(double.TryParse(str_num, out double_num))){
+
+        Console.WriteLine("Por favor, digite um número: ");
+        str_num = Console.ReadLine();
+
+    }
+
+    return double_num;
+
+    }
+
+    public static void Main(){
+
+        string str_n;
+        double n, res;
+
+        // Recebe a entrada e converte para número
+        Console.WriteLine("Digite um número: ");
+        str_n = Console.ReadLine();
+        n = verifNum(str_n);
+
+        res = somaNum(n);
+
+        Console.WriteLine($"O resultado de ({n}² + 1) / ({n} + 3) é igual a {res}");
+
+    }
+
+}
+
+Link do Replit: https://replit.com/join/jleenklqrq-relampagouu
+
+Questão 9:
+
+using System;
+
+class Program{
+
+    public static double mediaAluno(){
+
+        char res = ' ';
+        string str_nota;
+        int cont = 1, nota, notas = 0;
+        double media = 0;
+
+        while (true){
+
+            Console.WriteLine($"Deseja digitar a {cont}° nota? (s - sim; n - não)");
+            res = Console.ReadKey().KeyChar;
+
+            // Valida as opções digitadas
+            switch (res)
+            {
+                case 's':
+                    break;
+                case 'n':
+                    break;
+                default:
+                    while (res != 's' && res != 'n'){
+                        Console.WriteLine("\nPor favor, digite uma opção válida: ");
+                        res = Console.ReadKey().KeyChar;
+                    }
+                    break;
+            }
+
+            // Se res for = 'n', encerra o loop
+            if (res == 'n'){
+                break;
+            }
+
+            // Recebe a entrada digitada pelo usuário e converte para inteiro
+            Console.WriteLine($"\nDigite a {cont}° nota: ");
+            str_nota = Console.ReadLine();
+            nota = verifNum(str_nota);
+            
+            // Adiciona a última nota em notas
+            notas += nota;
+
+            // Faz o cálculo da média
+            media = notas / cont;
+
+            cont++;
+
+        }
+
+        if (media >= 6){
+            return media;
+        }
+
+        else{
+            return -1;
+        }
+        
+    }
+
+    public static int verifNum(string str_num){
+
+    // Pega a string recebida e somente irá liberar caso a mesma possa ser convertida para inteiro
+
+    int int_num;
+
+    while (!(int.TryParse(str_num, out int_num))){
+
+        Console.WriteLine("Por favor, digite um número: ");
+        str_num = Console.ReadLine();
+
+    }
+
+    return int_num;
+
+    }
+
+    public static void Main(){
+
+        double result;
+        string str_n_alunos;
+        int n_alunos;
+
+        // Recebe a entrada digitada pelo usuário e converte para inteiro
+        Console.WriteLine($"\nDigite o número de alunos: ");
+        str_n_alunos = Console.ReadLine();
+        n_alunos = verifNum(str_n_alunos);
+
+        for (int i = 0; i < n_alunos; i++){
+
+            result = mediaAluno();
+
+            if (result != -1){
+                Console.WriteLine($"\nA média desse aluno foi {result}. Aprovado!");
+            }
+
+            else if (result == -1){
+                Console.WriteLine($"\nO aluno não alcançou a média.");
+            }
+
+            if (i + 1 != n_alunos){
+                Console.WriteLine("Próximo aluno.");
+            }
+
+        }
+
+    }
+
+}
+
+Link do Replit: https://replit.com/join/jleenklqrq-relampagouu

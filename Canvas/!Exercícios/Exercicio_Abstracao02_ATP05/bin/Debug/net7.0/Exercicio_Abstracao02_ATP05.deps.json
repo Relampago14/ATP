@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exercicio_Abstracao02_ATP05/1.0.0": {
+        "runtime": {
+          "Exercicio_Abstracao02_ATP05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Abstracao02_ATP05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

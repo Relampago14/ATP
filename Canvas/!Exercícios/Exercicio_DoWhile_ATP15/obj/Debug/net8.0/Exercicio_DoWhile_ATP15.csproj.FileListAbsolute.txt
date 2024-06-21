@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\bin\Debug\net8.0\Exercicio_DoWhile_ATP15.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\bin\Debug\net8.0\Exercicio_DoWhile_ATP15.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\bin\Debug\net8.0\Exercicio_DoWhile_ATP15.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\bin\Debug\net8.0\Exercicio_DoWhile_ATP15.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\bin\Debug\net8.0\Exercicio_DoWhile_ATP15.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\Exercicio_DoWhile_ATP15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\Exercicio_DoWhile_ATP15.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\Exercicio_DoWhile_ATP15.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\Exercicio_DoWhile_ATP15.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\Exercicio_DoWhile_ATP15.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\refint\Exercicio_DoWhile_ATP15.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\Exercicio_DoWhile_ATP15.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\Exercicio_DoWhile_ATP15.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_DoWhile_ATP15\obj\Debug\net8.0\ref\Exercicio_DoWhile_ATP15.dll

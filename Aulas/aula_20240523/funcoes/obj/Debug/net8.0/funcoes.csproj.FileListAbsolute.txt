@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\funcoes.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\funcoes.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\bin\Debug\net8.0\funcoes.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\bin\Debug\net8.0\funcoes.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\bin\Debug\net8.0\funcoes.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\bin\Debug\net8.0\funcoes.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\bin\Debug\net8.0\funcoes.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\funcoes.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\refint\funcoes.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\funcoes.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\funcoes.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\funcoes\obj\Debug\net8.0\ref\funcoes.dll

@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\teste_senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\teste_senha.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\teste_senha.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\teste_senha.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\bin\Debug\net8.0\teste_senha.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\bin\Debug\net8.0\teste_senha.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\bin\Debug\net8.0\teste_senha.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\bin\Debug\net8.0\teste_senha.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\bin\Debug\net8.0\teste_senha.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\teste_senha.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\refint\teste_senha.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\teste_senha.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\teste_senha.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240423\teste_senha\obj\Debug\net8.0\ref\teste_senha.dll

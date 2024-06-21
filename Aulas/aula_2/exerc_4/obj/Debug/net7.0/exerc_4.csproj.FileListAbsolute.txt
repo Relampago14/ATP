@@ -1,0 +1,15 @@
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\exerc_4.csproj.AssemblyReference.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\exerc_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\exerc_4.AssemblyInfoInputs.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\exerc_4.AssemblyInfo.cs
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\exerc_4.csproj.CoreCompileInputs.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\bin\Debug\net7.0\exerc_4.exe
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\bin\Debug\net7.0\exerc_4.deps.json
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\bin\Debug\net7.0\exerc_4.runtimeconfig.json
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\bin\Debug\net7.0\exerc_4.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\bin\Debug\net7.0\exerc_4.pdb
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\exerc_4.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\refint\exerc_4.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\exerc_4.pdb
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\exerc_4.genruntimeconfig.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_4\obj\Debug\net7.0\ref\exerc_4.dll

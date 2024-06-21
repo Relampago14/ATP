@@ -1,0 +1,15 @@
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\formatar_decimal.csproj.AssemblyReference.cache
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\formatar_decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\formatar_decimal.AssemblyInfoInputs.cache
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\formatar_decimal.AssemblyInfo.cs
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\formatar_decimal.csproj.CoreCompileInputs.cache
+C:\!ATP\formatar_decimal\bin\Debug\net7.0\formatar_decimal.exe
+C:\!ATP\formatar_decimal\bin\Debug\net7.0\formatar_decimal.deps.json
+C:\!ATP\formatar_decimal\bin\Debug\net7.0\formatar_decimal.runtimeconfig.json
+C:\!ATP\formatar_decimal\bin\Debug\net7.0\formatar_decimal.dll
+C:\!ATP\formatar_decimal\bin\Debug\net7.0\formatar_decimal.pdb
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\formatar_decimal.dll
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\refint\formatar_decimal.dll
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\formatar_decimal.pdb
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\formatar_decimal.genruntimeconfig.cache
+C:\!ATP\formatar_decimal\obj\Debug\net7.0\ref\formatar_decimal.dll

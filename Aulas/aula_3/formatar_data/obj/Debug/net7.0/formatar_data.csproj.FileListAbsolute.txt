@@ -1,0 +1,15 @@
+C:\!ATP\formatar_data\bin\Debug\net7.0\formatar_data.exe
+C:\!ATP\formatar_data\bin\Debug\net7.0\formatar_data.deps.json
+C:\!ATP\formatar_data\bin\Debug\net7.0\formatar_data.runtimeconfig.json
+C:\!ATP\formatar_data\bin\Debug\net7.0\formatar_data.dll
+C:\!ATP\formatar_data\bin\Debug\net7.0\formatar_data.pdb
+C:\!ATP\formatar_data\obj\Debug\net7.0\formatar_data.csproj.AssemblyReference.cache
+C:\!ATP\formatar_data\obj\Debug\net7.0\formatar_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\!ATP\formatar_data\obj\Debug\net7.0\formatar_data.AssemblyInfoInputs.cache
+C:\!ATP\formatar_data\obj\Debug\net7.0\formatar_data.AssemblyInfo.cs
+C:\!ATP\formatar_data\obj\Debug\net7.0\formatar_data.csproj.CoreCompileInputs.cache
+C:\!ATP\formatar_data\obj\Debug\net7.0\formatar_data.dll
+C:\!ATP\formatar_data\obj\Debug\net7.0\refint\formatar_data.dll
+C:\!ATP\formatar_data\obj\Debug\net7.0\formatar_data.pdb
+C:\!ATP\formatar_data\obj\Debug\net7.0\formatar_data.genruntimeconfig.cache
+C:\!ATP\formatar_data\obj\Debug\net7.0\ref\formatar_data.dll

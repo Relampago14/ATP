@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\quant_algarism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\quant_algarism.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\quant_algarism.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\quant_algarism.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\bin\Debug\net8.0\quant_algarism.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\bin\Debug\net8.0\quant_algarism.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\bin\Debug\net8.0\quant_algarism.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\bin\Debug\net8.0\quant_algarism.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\bin\Debug\net8.0\quant_algarism.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\quant_algarism.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\refint\quant_algarism.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\quant_algarism.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\quant_algarism.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\quant_algarism\obj\Debug\net8.0\ref\quant_algarism.dll

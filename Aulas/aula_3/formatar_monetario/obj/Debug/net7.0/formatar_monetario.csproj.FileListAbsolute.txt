@@ -1,0 +1,15 @@
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\formatar_monetario.csproj.AssemblyReference.cache
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\formatar_monetario.GeneratedMSBuildEditorConfig.editorconfig
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\formatar_monetario.AssemblyInfoInputs.cache
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\formatar_monetario.AssemblyInfo.cs
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\formatar_monetario.csproj.CoreCompileInputs.cache
+C:\!ATP\formatar_monetario\bin\Debug\net7.0\formatar_monetario.exe
+C:\!ATP\formatar_monetario\bin\Debug\net7.0\formatar_monetario.deps.json
+C:\!ATP\formatar_monetario\bin\Debug\net7.0\formatar_monetario.runtimeconfig.json
+C:\!ATP\formatar_monetario\bin\Debug\net7.0\formatar_monetario.dll
+C:\!ATP\formatar_monetario\bin\Debug\net7.0\formatar_monetario.pdb
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\formatar_monetario.dll
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\refint\formatar_monetario.dll
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\formatar_monetario.pdb
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\formatar_monetario.genruntimeconfig.cache
+C:\!ATP\formatar_monetario\obj\Debug\net7.0\ref\formatar_monetario.dll

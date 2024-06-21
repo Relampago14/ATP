@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\bin\Debug\net8.0\Exercicio_For_ATP03.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\bin\Debug\net8.0\Exercicio_For_ATP03.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\bin\Debug\net8.0\Exercicio_For_ATP03.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\bin\Debug\net8.0\Exercicio_For_ATP03.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\bin\Debug\net8.0\Exercicio_For_ATP03.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\Exercicio_For_ATP03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\Exercicio_For_ATP03.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\Exercicio_For_ATP03.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\Exercicio_For_ATP03.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\Exercicio_For_ATP03.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\refint\Exercicio_For_ATP03.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\Exercicio_For_ATP03.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\Exercicio_For_ATP03.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Canvas\!Exercícios\Exercicio_For_ATP03\obj\Debug\net8.0\ref\Exercicio_For_ATP03.dll

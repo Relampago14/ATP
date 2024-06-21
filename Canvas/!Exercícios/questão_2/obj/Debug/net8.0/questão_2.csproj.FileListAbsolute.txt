@@ -1,0 +1,14 @@
+C:\PUC\ATP\Reposição\questão_2\bin\Debug\net8.0\questão_2.exe
+C:\PUC\ATP\Reposição\questão_2\bin\Debug\net8.0\questão_2.deps.json
+C:\PUC\ATP\Reposição\questão_2\bin\Debug\net8.0\questão_2.runtimeconfig.json
+C:\PUC\ATP\Reposição\questão_2\bin\Debug\net8.0\questão_2.dll
+C:\PUC\ATP\Reposição\questão_2\bin\Debug\net8.0\questão_2.pdb
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\questão_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\questão_2.AssemblyInfoInputs.cache
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\questão_2.AssemblyInfo.cs
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\questão_2.csproj.CoreCompileInputs.cache
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\questão_2.dll
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\refint\questão_2.dll
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\questão_2.pdb
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\questão_2.genruntimeconfig.cache
+C:\PUC\ATP\Reposição\questão_2\obj\Debug\net8.0\ref\questão_2.dll

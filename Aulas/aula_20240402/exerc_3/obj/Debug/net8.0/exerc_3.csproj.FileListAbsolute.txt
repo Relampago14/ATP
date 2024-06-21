@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\exerc_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\exerc_3.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\exerc_3.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\exerc_3.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\bin\Debug\net8.0\exerc_3.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\bin\Debug\net8.0\exerc_3.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\bin\Debug\net8.0\exerc_3.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\bin\Debug\net8.0\exerc_3.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\bin\Debug\net8.0\exerc_3.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\exerc_3.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\refint\exerc_3.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\exerc_3.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\exerc_3.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\exerc_3\obj\Debug\net8.0\ref\exerc_3.dll

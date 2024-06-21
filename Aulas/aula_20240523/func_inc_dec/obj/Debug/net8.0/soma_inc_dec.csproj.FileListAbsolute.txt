@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\soma_inc_dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\soma_inc_dec.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\soma_inc_dec.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\soma_inc_dec.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\bin\Debug\net8.0\soma_inc_dec.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\bin\Debug\net8.0\soma_inc_dec.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\bin\Debug\net8.0\soma_inc_dec.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\bin\Debug\net8.0\soma_inc_dec.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\bin\Debug\net8.0\soma_inc_dec.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\soma_inc_dec.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\refint\soma_inc_dec.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\soma_inc_dec.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\soma_inc_dec.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240523\func_inc_dec\obj\Debug\net8.0\ref\soma_inc_dec.dll

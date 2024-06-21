@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9azUORU/Fkfiyedd4S2xdCv3tzG2XL1tNLSVqRQh8gT3v2NXkh2COPDAOXA2LZU90wlcw6UgknSdTt7SXzdJ7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edlau\\OneDrive\\!PUC\\ATP\\Canvas\\!Exercícios\\Exercicio_Abstracao02_ATP05\\Exercicio_Abstracao02_ATP05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edlau\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\edlau\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\edlau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\edlau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

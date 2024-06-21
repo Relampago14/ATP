@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio_Modularizacao_ATP09/1.0.0": {
+        "runtime": {
+          "Exercicio_Modularizacao_ATP09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Modularizacao_ATP09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

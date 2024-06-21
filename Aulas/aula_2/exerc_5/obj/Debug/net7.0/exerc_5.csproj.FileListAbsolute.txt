@@ -1,0 +1,15 @@
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\bin\Debug\net7.0\exerc_5.exe
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\bin\Debug\net7.0\exerc_5.deps.json
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\bin\Debug\net7.0\exerc_5.runtimeconfig.json
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\bin\Debug\net7.0\exerc_5.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\bin\Debug\net7.0\exerc_5.pdb
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\exerc_5.csproj.AssemblyReference.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\exerc_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\exerc_5.AssemblyInfoInputs.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\exerc_5.AssemblyInfo.cs
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\exerc_5.csproj.CoreCompileInputs.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\exerc_5.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\refint\exerc_5.dll
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\exerc_5.pdb
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\exerc_5.genruntimeconfig.cache
+C:\!Algoritimos e Técnicas de Programação\aula_2\exerc_5\obj\Debug\net7.0\ref\exerc_5.dll

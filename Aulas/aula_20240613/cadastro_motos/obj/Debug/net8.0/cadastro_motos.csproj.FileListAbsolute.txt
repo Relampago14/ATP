@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\cadastro_motos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\cadastro_motos.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\cadastro_motos.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\cadastro_motos.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\bin\Debug\net8.0\cadastro_motos.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\bin\Debug\net8.0\cadastro_motos.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\bin\Debug\net8.0\cadastro_motos.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\bin\Debug\net8.0\cadastro_motos.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\bin\Debug\net8.0\cadastro_motos.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\cadastro_motos.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\refint\cadastro_motos.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\cadastro_motos.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\cadastro_motos.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240613\cadastro_motos\obj\Debug\net8.0\ref\cadastro_motos.dll

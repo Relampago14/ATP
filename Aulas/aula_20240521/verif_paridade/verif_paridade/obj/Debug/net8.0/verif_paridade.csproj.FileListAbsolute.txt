@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\verif_paridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\verif_paridade.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\verif_paridade.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\verif_paridade.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\bin\Debug\net8.0\verif_paridade.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\bin\Debug\net8.0\verif_paridade.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\bin\Debug\net8.0\verif_paridade.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\bin\Debug\net8.0\verif_paridade.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\bin\Debug\net8.0\verif_paridade.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\verif_paridade.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\refint\verif_paridade.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\verif_paridade.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\verif_paridade.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240521\verif_paridade\verif_paridade\obj\Debug\net8.0\ref\verif_paridade.dll

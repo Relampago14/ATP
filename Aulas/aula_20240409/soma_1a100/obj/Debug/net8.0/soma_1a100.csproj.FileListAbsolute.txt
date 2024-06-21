@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\bin\Debug\net8.0\soma_1a100.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\bin\Debug\net8.0\soma_1a100.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\bin\Debug\net8.0\soma_1a100.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\bin\Debug\net8.0\soma_1a100.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\bin\Debug\net8.0\soma_1a100.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\soma_1a100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\soma_1a100.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\soma_1a100.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\soma_1a100.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\soma_1a100.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\refint\soma_1a100.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\soma_1a100.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\soma_1a100.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\aulas\aula_20240409\soma_1a100\obj\Debug\net8.0\ref\soma_1a100.dll

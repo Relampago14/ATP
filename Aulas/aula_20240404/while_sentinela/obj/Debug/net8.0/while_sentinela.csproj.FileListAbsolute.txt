@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\while_sentinela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\while_sentinela.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\while_sentinela.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\while_sentinela.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\bin\Debug\net8.0\while_sentinela.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\bin\Debug\net8.0\while_sentinela.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\bin\Debug\net8.0\while_sentinela.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\bin\Debug\net8.0\while_sentinela.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\bin\Debug\net8.0\while_sentinela.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\while_sentinela.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\refint\while_sentinela.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\while_sentinela.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\while_sentinela.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240404\while_sentinela\obj\Debug\net8.0\ref\while_sentinela.dll

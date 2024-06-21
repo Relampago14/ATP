@@ -1,0 +1,14 @@
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\bin\Debug\net8.0\loop_foreach.exe
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\bin\Debug\net8.0\loop_foreach.deps.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\bin\Debug\net8.0\loop_foreach.runtimeconfig.json
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\bin\Debug\net8.0\loop_foreach.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\bin\Debug\net8.0\loop_foreach.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\loop_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\loop_foreach.AssemblyInfoInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\loop_foreach.AssemblyInfo.cs
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\loop_foreach.csproj.CoreCompileInputs.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\loop_foreach.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\refint\loop_foreach.dll
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\loop_foreach.pdb
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\loop_foreach.genruntimeconfig.cache
+C:\Users\edlau\OneDrive\!PUC\ATP\Aulas\aula_20240402\loop_foreach\obj\Debug\net8.0\ref\loop_foreach.dll

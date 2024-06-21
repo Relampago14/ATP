@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "verif_paridade/1.0.0": {
+        "runtime": {
+          "verif_paridade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "verif_paridade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
